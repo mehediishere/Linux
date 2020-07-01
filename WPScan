@@ -13,3 +13,12 @@ mehedi@kali:~$ cd wpscan/
 --Then
 mehedi@kali:~$ bundle install && rake install
 
+**Uninstall**
+
+--Uninstall just wpscan
+sudo apt-get remove wpscan
+Which will remove just the wpscan package itself.
+Or
+--Uninstall wpscan and its dependencies
+sudo apt-get remove --auto-remove wpscan
+
