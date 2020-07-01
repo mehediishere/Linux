@@ -3,5 +3,5 @@
 
 **Note : The Documentation from here is for educational purposes only.** 
 
-**Kali Linux Penetration Tools**
+**Kali Linux Penetration Testing Tools**
 1. WPScan
