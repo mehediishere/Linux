@@ -1,0 +1,15 @@
+**Installation Process**
+---First need to install prerequisites
+mehedi@kali:~$ sudo apt install patch build-essential zlib1g-dev liblzma-dev ruby-dev
+mehedi@kali:~$ gem install nokogiri
+---Then
+mehedi@kali:~$ gem install wpscan
+
+Or
+--Downloading from github
+mehedi@kali:~$ git clone https://github.com/wpscanteam/wpscan
+--Go to wpscan directory. If file is zip the unzip first
+mehedi@kali:~$ cd wpscan/
+--Then
+mehedi@kali:~$ bundle install && rake install
+
