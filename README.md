@@ -78,4 +78,4 @@ Feel free to contact with me if you need or stack on something.<br />
 Mehedi Hasan - mehedihasanp78@gmail.com | [Linkedin](https://www.linkedin.com/in/mh-mehedi-hasan/)
 
 <br />
-<div style="background-color:#FAFBFC; padding:10px;">Special thanks to <a herf="https://github.com/othneildrew/Best-README-Template">othneildrew</a>. This markdown file inspire from his open source work.</div>
+<div style="background-color:#FAFBFC; padding:10px;">Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">othneildrew</a>. This markdown file inspire from his open source work.</div>
