@@ -77,5 +77,5 @@ Distributed under the MIT License. Check [MIT LICENSE](https://choosealicense.co
 Feel free to contact with me if you need or stack on something.<br />
 Mehedi Hasan - mehedihasanp78@gmail.com | [Linkedin](https://www.linkedin.com/in/mh-mehedi-hasan/)
 
-<br />
+<br /><hr>
 <div style="background-color:#FAFBFC; padding:10px;">Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">othneildrew</a>. This markdown file inspire from his open source work.</div>
