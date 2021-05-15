@@ -1,4 +1,4 @@
-# Linux | Kali Linux | Parrot | VM | Cyber Security
+# Linux | Kali | Parrot | VM | Cyber Security
 
 ![Linux](images/linux.png)
 
@@ -28,25 +28,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About This Repository
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-(Once Upon A Time Me to my Friend while opening his laptop...)<br />
-Me: huh! Oh boy thats a cool windows setup bro<br />
-Friend : Idiot. That's Linux<br />
-Me : Ohh Haaaakkeeerrrr....<br />
-
-Hello there... First time checking this repo! Then lets dive into the world of Haking oh no no I mean world of Linux.<br />
-The goal of this project is to explore and be familiar with linux and as i said (by mistake) let's mark our name on the field of ....... you already guess that.<br />
-Well actually we'll explore [Kali Linux Tools Listing](https://tools.kali.org/tools-listing) as well some other. Note to be taken i'm not propesonal one on this field, just a learner out of personal interest. So don't forget to contribute if possible to make learning scope larger make your own contribution to cyber security. 
+(Once Upon A Time Me to my Friend 😗 while opening his laptop... 💻) <br />
+Me: huh! Oh boy that's a cool windows setup bro 🤩<br />
+Friend: Idiot. That's Linux 😶<br />
+Me: Ohh Haaaakkeeerrrr.... 😎<br /><br />
+Hello there... **First time checking this repo!** Then let us dive into the world of hacking oh no no I mean the world of Linux. 😷<br />
+The goal of this project is to explore and be familiar with Linux and as I said let's mark our name on the field of ~~ you might have already guessed that 😁<br /><br />
+Well, we'll explore [Kali Linux Tools Listing](https://tools.kali.org/tools-listing) as well as some others. Note to be taken I'm not a professional one in this field, just a learner out of personal interest. So don't forget to contribute if possible to make the learning scope larger and make your contribution to cybersecurity.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Let's setup a secure environment so that even if things go wrong while learning and experimenting we can always start from the begining safely.<br /><br />
->Below these are my personal recomendation to set up your lab. You are free to use any **virtual machine** and **linux distribution** you are comportable with.
+Let's setup a secure environment so that even if things go wrong while learning and experimenting we can always start from the beginning safely.
+<br />
+>Below these are my personal recommendation to set up your lab. You are free to use any **virtual machine** and **Linux distribution** you are comfortable with.
+
 
 ### Virtual Machine
-1. VMware Workstation Player.
-2. VirtualBox.
+1. VMware Workstation Player
+2. VirtualBox
 
 ### Linux Distributions
 1. Kali Linux
@@ -78,4 +78,4 @@ Feel free to contact with me if you need or stack on something.<br />
 Mehedi Hasan - mehedihasanp78@gmail.com | [Linkedin](https://www.linkedin.com/in/mh-mehedi-hasan/)
 
 <br />
-<div style="background-color:#FAFBFC; padding:10px;">Special thanks to <a link="https://github.com/othneildrew/Best-README-Template">othneildrew</a>. This markdown file inspire from his open source work.</div>
+<div style="background-color:#FAFBFC; padding:10px;">Special thanks to <a herf="https://github.com/othneildrew/Best-README-Template">othneildrew</a>. This markdown file inspire from his open source work.</div>
