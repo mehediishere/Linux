@@ -1,4 +1,4 @@
-# Linux | Kali | Parrot | VM | Cyber Security
+# Linux | Kali | Parrot | VM | Cyber Security | Ethical Haking
 
 ![Linux](images/linux.png)
 
@@ -45,11 +45,11 @@ Let's setup a secure environment so that even if things go wrong while learning 
 
 
 ### Virtual Machine
-1. VMware Workstation Player
+1. VMware Workstation Player or
 2. VirtualBox
 
 ### Linux Distributions
-1. Kali Linux
+1. Kali Linux or
 2. Parrot Linux
 
 
