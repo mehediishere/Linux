@@ -17,6 +17,7 @@
         <li><a href="#linux-distributions">Linux distributions</a></li>
       </ul>
     </li>
+    <li><a href="#ultimate-linux-command-cheat-sheet">Linux Cheat Sheet</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
