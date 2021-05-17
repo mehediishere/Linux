@@ -18,6 +18,15 @@
       </ul>
     </li>
     <li><a href="https://github.com/mehediishere/Linux/tree/master/Ultimate%20Linux%20Command%20Cheat%20Sheet">Linux Cheat Sheet</a></li>
+    <li>
+      Cyber Security
+      <details>
+        <summary>Ethical Haking</summary>
+        <ul>
+          <li><a href="https://github.com/mehediishere/Linux/tree/master/Get%20Accurate%20Location">Get accurate device details & location</a></li>
+        </ul>
+      </details>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
