@@ -44,7 +44,7 @@ pip3 install requests
 
 ## Implement
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Bs2y2LjOkqo" target="_blank"><img src="http://img.youtube.com/vi/Bs2y2LjOkqo/0.jpg" 
-alt="video tutorial" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Bs2y2LjOkqo" target="_blank"><img src="ngrok_video.png" 
+alt="video tutorial" width="280" height="180" /></a>
 
 * Note : **Seeker** give us several template. So don't forget to check them.
