@@ -5,20 +5,20 @@
 2. Location of target device 
 
 ## Required Tools / Packages
-1. A tunnel service. We'll use **ngrok**
-2. seeker
+1. A tunnel service. We'll use [**ngrok**](https://ngrok.com/)
+2. [seeker](https://github.com/thewhiteh4t/seeker)
 3. python / python3
 
 ## Install
 ### ngrok
-* Create an account in [ngrok](https://ngrok.com). You'll see the following dashboard.
-![ngrok](ngrok_dashboard.gif)
+* Create an account in [ngrok](https://ngrok.com). You'll see the following dashboard.<br /><br />
+![ngrok](ngrok_dashboard.gif)<br /><br />
 * Then download ngrok file. Unzip it with following command
 ```
     unzip ngrok.zip
 ```
 ![ngrok](ngrok_unzip.gif)
-* Now **ngrok reasy to use**, but we'll add authtoken since it'll grant us access to more features and longer session times.
+* Now **ngrok ready to use**, but we'll add authtoken since it'll grant us access to more features and longer session times.
 
 * Now go to the folder you downloaded and open a terminal and execute the following command
 ```
@@ -42,10 +42,9 @@ apt install python3 python3-pip php
 pip3 install requests
 ```
 
-* Note : **Seeker** give us several template. So don't forget to check them.
-
 ## Implement
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Bs2y2LjOkqo" target="_blank"><img src="http://img.youtube.com/vi/Bs2y2LjOkqo/0.jpg" 
 alt="video tutorial" width="240" height="180" border="10" /></a>
 
+* Note : **Seeker** give us several template. So don't forget to check them.
