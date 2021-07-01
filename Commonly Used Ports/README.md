@@ -2,15 +2,15 @@
 
 ![port scan](port-scan.jpg)
 
-In computer networking, a port is a communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service.
+In computer networking, A Port is a communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. [Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking)#:~:text=At%20the%20software%20level%2C%20within,known%20as%20the%20port%20number.)
 
 To put it simply, A port is a virtual location where networking communication starts and ends.
 
 There are two kinds of network ports on each computer
-* TCP ( Transmission Control Protocol )
-* UDP ( User Datagram Protocol )
+* **TCP** ( Transmission Control Protocol )
+* **UDP** ( User Datagram Protocol )
 
-A port scanner sends a TCP or UDP network packet and asks the port about their current status.
+A port scanner sends a TCP or UDP network packet and asks the port about their current status. Their current status could be
 
 * **Open, Accepted:** The computer responds and asks if there is anything it can do for you.
 * **Closed, Not Listening:** The computer responds that “This port is currently in use and unavailable at this time.”
