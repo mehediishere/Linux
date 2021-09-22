@@ -1,4 +1,4 @@
-# Ultimate Linux Command Cheat Sheet
+# Linux Command Cheat Sheet
 
 ![linux cmd](linux-commands.png)
 
