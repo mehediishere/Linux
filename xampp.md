@@ -1,4 +1,4 @@
-<p align="center"> XAMPP INSTALLATION PROCESS </p>
+<p align="center"> <code> XAMPP INSTALLATION PROCESS </code> </p>
 <p align="center">
   <a href="https://www.apachefriends.org/index.html" target="_blank">
     <img src="https://managewp.com/wp-content/uploads/2012/08/xampp-logo.png" width="400">
