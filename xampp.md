@@ -1,9 +1,9 @@
-<p align="center"> <code> XAMPP INSTALLATION PROCESS </code> </p>
 <p align="center">
   <a href="https://www.apachefriends.org/index.html" target="_blank">
     <img src="https://github.com/mehediishere/Linux/blob/master/images/xampp-logo.png" width="400">
   </a>
 </p>
+<p align="center"> <code> XAMPP INSTALLATION PROCESS </code> </p>
 
 ## Change the permissions to the installer
 
