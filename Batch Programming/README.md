@@ -779,7 +779,7 @@ IF %option%==4 SHUTDOWN /s /f /t 0
 PAUSE
 ```
 
-## Create folder and files for new laravel project at view directory
+## Create folder and files at current directory
 This one I did for myself for being too lazy ><
 
 ```batch
@@ -856,4 +856,5 @@ echo ^<ESC^>[37m [37mWhite[0m
 echo.
 
 PAUSE
-```
+```[color.txt](https://github.com/mehediishere/Linux/files/10001501/color.txt)
+
