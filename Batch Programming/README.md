@@ -756,7 +756,7 @@ SET %~2=10
 EXIT /B 0
 ```
 
-# Mini Projects
+## Mini Projects
 
 ## Program to shutdown, reboot, hibernate, and logoff the computer
 
@@ -856,5 +856,6 @@ echo ^<ESC^>[37m [37mWhite[0m
 echo.
 
 PAUSE
-```[color.txt](https://github.com/mehediishere/Linux/files/10001501/color.txt)
+```
+[color.txt](https://github.com/mehediishere/Linux/files/10001501/color.txt)
 
