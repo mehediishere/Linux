@@ -31,17 +31,17 @@
     <li><a href="#SYSTEMINFO">SYSTEMINFO</a></li>
     <li><a href="#TITLE">TITLE</a></li>
     <li><a href="#variables">variables</a></li>
-    <li><a href="#Arithmetic Operators">Arithmetic Operators</a></li>
-    <li><a href="#Relational Operators">Relational Operators</a></li>
-    <li><a href="#Logical shift and re directional Operators">Logical shift and re directional Operators</a></li>
-    <li><a href="#Assignment Operators">Assignment Operators</a></li>
-    <li><a href="#Conditional Operator">Conditional Operator</a></li>
-    <li><a href="#if else statement">if else statement</a></li>
+    <li><a href="#Arithmetic-Operators">Arithmetic Operators</a></li>
+    <li><a href="#Relational-Operators">Relational Operators</a></li>
+    <li><a href="#Logical-shift-and-re-directional-Operators">Logical shift and re directional Operators</a></li>
+    <li><a href="#Assignment-Operators">Assignment Operators</a></li>
+    <li><a href="#Conditional-Operator">Conditional Operator</a></li>
+    <li><a href="#if-else-statement">if else statement</a></li>
     <li><a href="#Loop">Loop</a></li>
-    <li><a href="#return code">return code</a></li>
-    <li><a href="#Error Level">Error Level</a></li>
+    <li><a href="#return-code">return code</a></li>
+    <li><a href="#Error-Level">Error Level</a></li>
     <li><a href="#Functions">Functions</a></li>
-    <li><a href="#Mini Projects">Mini Projects</a></li>
+    <li><a href="#Mini-Projects">Mini Projects</a></li>
 </ul>
 </details>
 
