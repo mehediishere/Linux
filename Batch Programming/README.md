@@ -54,13 +54,13 @@
 **How to run file?** just click on that damm file >_<
 
 ## Starting Format
-```
+```batch
 @echo OFF
 
 PAUSE
 ```
 or
-```
+```batch
 @echo off
 
 pause
@@ -104,6 +104,7 @@ Used to display the file attributes or set an attribute to a file in the working
 
 ```batch
 @echo OFF
+
 :: To display attribute of note.txt
 ATTRIB note.txt
 
@@ -111,21 +112,21 @@ ATTRIB note.txt
 ATTRIB +r note.txt
 ATTRIB note.txt
 
-:: To make it hidden by adding 'ah'
-ATTRIB +ah note.txt
-ATTRIB note.txt
-
 :: To remove attribute read only
 ATTRIB -r note.txt
 ATTRIB note.txt
+
+:: To make it hidden by adding 'h'
+ATTRIB +h note.txt
+ATTRIB note.txt
+
+:: To remove hidden attribute
+ATTRIB -h note.txt
+ATTRIB note.txt
+
+pause
 ```
-Output
-```
-A        note.txt
-A  R     note.txt
-A  R  AH note.txt
-A     AH note.txt
-```
+
 Here in this output, A means Archived, R means Read only and AH means Hidden file.
 
 ## CD
