@@ -785,8 +785,15 @@ This one I did for myself for being too lazy ><
 
 ```batch
 @echo OFF
+::Place this script inside of reosurces>views folder
 ::Batch title
 TITLE Laravel
+
+::Create master file
+type nul > master.blade.php
+
+::Create page-template file
+type nul > page-template.blade.php
 
 ::Creating folder if not exist
 if not exist %cd%\layouts md layouts
@@ -801,7 +808,7 @@ FOR %%a in (%list%) DO (
    type nul > %%a.blade.php
 )
 
-echo Following files created for [44mlayout[0m folder
+echo Following files created for layout folder
 FOR %%a in (%list%) DO (
    echo %%a
 )
@@ -819,7 +826,7 @@ FOR %%a in (%list%) DO (
 )
 
 echo.
-echo Following files created for [44mpage[0m folder
+echo Following files created for page folder
 FOR %%a in (%list%) DO (
    echo %%a
 )
